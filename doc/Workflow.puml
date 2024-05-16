@@ -1,0 +1,9 @@
+@startuml
+repeat
+:Edit language;
+floating note left: MPS
+:Analyse MPS language model files;
+floating note left: mpsmodelprinter
+:Create language element using BaseLanguage;
+floating note left: LanguageCreator
+@enduml

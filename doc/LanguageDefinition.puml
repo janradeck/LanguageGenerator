@@ -1,0 +1,4 @@
+@startuml
+:Define language using LanguageGenerator DSL;
+:Generate target DSL via LanguageGenerator;
+@enduml

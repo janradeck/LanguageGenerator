@@ -1,0 +1,15 @@
+languages/LanguageGenerator/classes_gen
+languages/LanguageGenerator/source_gen
+languages/LanguageGenerator/source_gen.caches
+languages/LanguageGenerator/generator/classes_gen
+languages/LanguageGenerator/generator/source_gen
+languages/LanguageGenerator/generator/source_gen.caches
+
+languages/LanguageGenerator.sandbox/source_gen.caches
+
+languages/GeneratedLanguage/classes_gen
+languages/GeneratedLanguage/source_gen
+languages/GeneratedLanguage/source_gen.caches
+languages/GeneratedLanguage/generator/classes_gen
+languages/GeneratedLanguage/generator/source_gen
+languages/GeneratedLanguage/generator/source_gen.caches
