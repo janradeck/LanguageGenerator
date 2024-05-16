@@ -44,7 +44,7 @@ This is the workflow that I followed when I wanted to implement a new language f
 
 # Status
 
-Inspired by the [Cult of done Manifesto]("https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13"), I am publishing this project even though it is not yet complete.
+Inspired by the [Cult of done Manifesto](https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13), I am publishing this project even though it is not yet complete.
 
 There is a lot of code that should point you in the right direction when you would like to so do yourself.
 
@@ -52,4 +52,4 @@ You'll need a fair bit of experience of working with JetBrains MPS, though.
 
 # References
 
-[MPS Model Printer]("https://github.com/janradeck/mpsmodelprinter") : Pretty printer utility for JetBrains MPS language models
+[MPS Model Printer](https://github.com/janradeck/mpsmodelprinter) : Pretty printer utility for JetBrains MPS language models
